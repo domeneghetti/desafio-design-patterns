@@ -2,7 +2,6 @@
     <img src="./img/logo.png" />
 </div>
 
-
 # Desafio Design Patterns
 <p id="descricaoprojeto" align="left">Este repositório tem como objetivo trazer códigos com cenários apresentando problemas de arquitetura para que possam ser melhorados através da implementação de desing patterns</p>
 
@@ -30,7 +29,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com) e [Dotnet 8](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0). 
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 
 ### 🔨 Rodando o(s) projeto(s)
 <p id="#rodandoprojeto"></p>
